@@ -1,3 +1,3 @@
 this is readme file,
 used by Git.
-hehehehe
+Git is a distributed version control system.
